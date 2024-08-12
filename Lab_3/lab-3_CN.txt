@@ -1,0 +1,8 @@
+1. WAP in C to create a UDP socket to which client will send a string to the server , the server will echo back the string to the client. When the client will send exit , server will drop the connection.
+
+2. Create an UDP socket through which the client will send 2 integer number to the server, server will add the number and return back the value.
+
+3. Create an UDP socket through which client will send an integer array to the server, the server will sort the array and return back to the client.
+
+last lab 2
+Create a UDP socket where two clients can communicate with each other through a server. One client will send a message to the server, and the server will forward that message to the other client. Similarly, the second client can send a message to the server, which will then forward it to the first client. Implement the functionality such that both clients can send and receive messages from each other via the server.
