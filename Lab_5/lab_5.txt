@@ -1,0 +1,7 @@
+1. WAP in C to create a TCP socket, through which client will send an integer number to the server and the server will find sum of digits of the number and will send back the result to the client.
+
+2. WAP in C to create a TCP socket through which client will send 2 comments to the server as follows:
+--> (1). When client will send "list" then the server will send back list of file names which are present in the current working directory.
+--> (2). When client will send "retr filename" server will send back the content of that file to the client.
+
+3. WAP in C to crate a TCP socket, through which client will send the roll number of a student to the server, server will search that roll number in  a list of students which are previously stored in the server and will send back the student information, if the roll number is matched with a particular students roll number.
